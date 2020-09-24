@@ -8,12 +8,9 @@ C_POINTER($what_p)
 
 C_TEXT($test_t)
 
-
 $what_p:=->$test_t
 ASSERT(Ptr_isVar ($what_p))  //is a var
-
 ASSERT(Ptr_isVar ($what_p;Is text))  //is a text var 
-
 ASSERT(Not(Ptr_isVar ($what_p;Is longint)))  //is Not a longint var
 ASSERT(Ptr_isVar ($what_p;Is longint;Is text))  //is text OR longint var
 
