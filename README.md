@@ -1,3 +1,3 @@
 # pointerIsWhat
 
-collection of methods to determinate what is pointed
+Some methods to determinate what is behind a pointer
