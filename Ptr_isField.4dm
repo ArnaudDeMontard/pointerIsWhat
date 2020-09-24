@@ -21,7 +21,6 @@ C_LONGINT:C283($params_l)
   //_
 $isField_b:=False:C215
 $params_l:=Count parameters:C259
-  //$nmc_t:=Nom methode courante
 Case of 
 	: (Not:C34(Asserted:C1132($params_l>0;Current method name:C684+" $1 expected")))
 	: (Is nil pointer:C315($1))
