@@ -1,4 +1,4 @@
-﻿  //%attributes = {"shared":true,"folder":"Ptr pointeurs","lang":"en"} comment added and reserved by 4D.
+  //%attributes = {"shared":true,"folder":"Ptr pointeurs","lang":"en"} comment added and reserved by 4D.
   //Ptr_isArray (unPointeur_p {;type_l {;type2_l {.. ;typeN_l) -> bool
   //retourne si unPointeur_p pointe un tableau à une dimension
   //$2..$N optionnels : filtre types de tableaux acceptés
