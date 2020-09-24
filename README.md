@@ -2,7 +2,7 @@
 
 Some methods to determinate what is behind a pointer
 
-Examples (all assert should pass)
+Examples (all asserts should pass)
 
 C_POINTER($what_p)
 
