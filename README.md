@@ -19,4 +19,3 @@ ASSERT(Ptr_isArray ($what_p))  //is an array
 ASSERT(Ptr_isArray ($what_p;Text array))  //is a text array 
 ASSERT(Not(Ptr_isArray ($what_p;LongInt array)))  //is Not a longint array
 ASSERT(Ptr_isArray ($what_p;LongInt array;Text array))  //is text OR longint array
-
