@@ -1,6 +1,7 @@
   //%attributes = {"shared":true,"folder":"Ptr pointeurs","lang":"en"} comment added and reserved by 4D.
   //Ptr_isVar (unPointeur_p {;type_l {;type2_l {.. ;typeN_l) -> bool 
   //retourne si unPointeur_p pointe une variable scalaire (non tableau)
+  //paramètres 2 à N : types admis (filtrage du type)
   //cf : Ptr_isTable, Ptr_isArray
   //µ Arnaud * 21/07/2015 
   //© arnaud * 18/02/03
