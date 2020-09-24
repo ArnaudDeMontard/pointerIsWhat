@@ -30,7 +30,6 @@ If (Asserted:C1132($params_l>0;Current method name:C684+" 1 parametre requis"))
 		$isArray_b:=($type_l=Array 2D:K8:24)
 		If ($isArray_b) & ($params_l>1)  //vérifier aussi le type
 			$type_l:=Type:C295($1->{0})
-			  //$isArray_b:=($type_l=$2)
 			$i_l:=2
 			Repeat 
 				$isArray_b:=($type_l=${$i_l})
