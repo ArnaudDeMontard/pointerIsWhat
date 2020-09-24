@@ -1,4 +1,4 @@
-﻿  //%attributes = {"shared":true,"folder":"Ptr pointeurs","lang":"en"} comment added and reserved by 4D.
+  //%attributes = {"shared":true,"folder":"Ptr pointeurs","lang":"en"} comment added and reserved by 4D.
   //Ptr_isField (unPointeur_p {;type_l {;type2_l {.. ;typeN_l) -> bool 
   //retourne si unPointeur_p pointe un champ
   //$2..$N optionnels : filtre types de champs acceptés
