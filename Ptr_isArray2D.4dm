@@ -1,4 +1,4 @@
-﻿  //%attributes = {"shared":true,"lang":"en"} comment added and reserved by 4D.
+  //%attributes = {"shared":true,"lang":"en"} comment added and reserved by 4D.
   //Ptr_isArray2D (unPointeur_p {;type_l {;type2_l {.. ;typeN_l) -> bool
   //retourne si unPointeur_p pointe un tableau à 2 dimension
   //$2..$N optionnels : filtre types de tableaux acceptés
