@@ -29,7 +29,8 @@ If (Asserted:C1132($params_l>0;Current method name:C684+" $1 expected"))
 			 | ($type_l=Is pointer:K8:14)\
 			 | ($type_l=Is string var:K8:2)\
 			 | ($type_l=Is BLOB:K8:12)\
-			 | ($type_l=38)  //Est un objet
+			 | ($type_l=Is object:K8:27)\
+			 | ($type_l=Is collection:K8:32)
 		If ($isVar_b) & ($params_l>1)  //vérifier aussi le(s) type(s)
 			$i_l:=2
 			Repeat 
